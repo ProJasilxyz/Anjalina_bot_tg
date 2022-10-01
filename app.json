@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ccadmin1/anjalina-Imdb",
-    "repository": "https://github.com/ccadmin1/anjalina-Imdb",
+    "website": "https://github.com/ProJasilxyz/Anjalina_bot_tg",
+    "repository": "https://github.com/ProJasilxyz/Anjalina_bot_tg"
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token from @BotFather",
